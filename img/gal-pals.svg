@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="102" viewBox="0 0 102 102">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffe400;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="gal-pals.svg" class="cls-1" d="M960,470h1V572h-1V470Zm-51,51h102v1H909v-1Z" transform="translate(-909 -470)"/>
+</svg>
